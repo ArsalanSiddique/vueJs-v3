@@ -43,12 +43,14 @@
       }"
       :key="keyword.text"
       v-for="keyword in keywords"
-    >
+    > 
       {{ keyword.text }}{{ "&nbsp;&nbsp;&nbsp;" }}
     </span>
   </p>
-  <input v-if="countdown > 0 " :value="inputValue" @keyup.space="processInput($event)" />
-  <input v-else disabled>
+  <!-- <input v-if="countdown > 0 " :value="inputValue" @keyup.space="processInput($event)" />
+  <input v-else disabled> -->
+  <input :value="inputValue" @keyup.space="processInput($event)" />
+
 </template>
 
 <script>
