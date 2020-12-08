@@ -1,4 +1,4 @@
-# hello-wrold
+# hello-wrold Vue Js 3.0 App
 
 ## Project setup
 ```
