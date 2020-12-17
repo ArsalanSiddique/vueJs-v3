@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Vue JS
+### Vue JS Application
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
