@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Vue JS Application || version 3.0 || Author: Arsalan Ahmed Siddque
+### Vue JS Application || version 3.0 || Author: Arsalan Ahmed 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
